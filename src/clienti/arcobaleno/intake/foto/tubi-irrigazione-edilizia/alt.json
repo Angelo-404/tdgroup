@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezioni di tubo dai 50 ai 160 millimetri messe in scala una accanto all’altra, per vedere quanto cresce la sezione utile",
+  "generata": true
+ },
+ "01-diametri-a-confronto.jpg": {
+  "slug": "diametri-a-confronto",
+  "alt": "Disegno tecnico: sezioni di tubo dai 50 ai 160 millimetri messe in scala una accanto all’altra, per vedere quanto cresce la sezione utile",
+  "generata": true
+ },
+ "02-tubo-drenante.jpg": {
+  "slug": "tubo-drenante",
+  "alt": "Disegno tecnico: tubo drenante corrugato da 80 millimetri con le microfessure sulla cresta della corrugazione, viste di fianco e in sezione",
+  "generata": true
+ },
+ "03-raccorderia.jpg": {
+  "slug": "raccorderia",
+  "alt": "Disegno tecnico: schema della raccorderia per irrigazione e drenaggio, con un TE, una curva a 90 gradi e un pozzetto d’ispezione",
+  "generata": true
+ },
+ "04-dettaglio-diametri-a-confronto.jpg": {
+  "slug": "dettaglio-diametri-a-confronto",
+  "alt": "Dettaglio del disegno tecnico: i diametri grandi per l’adduzione",
+  "generata": true
+ },
+ "05-dettaglio-tubo-drenante.jpg": {
+  "slug": "dettaglio-tubo-drenante",
+  "alt": "Dettaglio del disegno tecnico: le microfessure che raccolgono l’acqua",
+  "generata": true
+ },
+ "06-dettaglio-raccorderia.jpg": {
+  "slug": "dettaglio-raccorderia",
+  "alt": "Dettaglio del disegno tecnico: il pozzetto d’ispezione",
+  "generata": true
+ },
+ "01-deposito-materiali.jpg": {
+  "slug": "deposito-materiali",
+  "alt": "Deposito dei materiali per irrigazione e drenaggio, con le cataste di tubi all’aperto",
+  "generata": true
+ },
+ "02-rotoli-di-dreno-in-deposito.jpg": {
+  "slug": "rotoli-di-dreno-in-deposito",
+  "alt": "Rotoli di tubo drenante corrugato accatastati in deposito, pronti per la vendita",
+  "generata": true
+ },
+ "03-tubi-per-diametro.jpg": {
+  "slug": "tubi-per-diametro",
+  "alt": "Tubazioni in polietilene e PVC ordinate per diametro nelle rastrelliere del deposito",
+  "generata": true
+ },
+ "04-raccorderia.jpg": {
+  "slug": "raccorderia",
+  "alt": "Raccorderia per irrigazione e drenaggio: curve, TE, manicotti e giunzioni sugli scaffali",
+  "generata": true
+ },
+ "05-pozzetti.jpg": {
+  "slug": "pozzetti",
+  "alt": "Pozzetti di ispezione in deposito, usati per il controllo e l’innesto delle linee di drenaggio",
+  "generata": true
+ },
+ "06-dreno-fessurato-dettaglio.jpg": {
+  "slug": "dreno-fessurato-dettaglio",
+  "alt": "Dettaglio delle microfessure sul tubo drenante corrugato, le aperture da cui entra l’acqua",
+  "generata": true
+ },
+ "07-carico-del-materiale.jpg": {
+  "slug": "carico-del-materiale",
+  "alt": "Carico dei tubi su rimorchio in deposito, per la consegna in cantiere",
+  "generata": true
+ }
+}

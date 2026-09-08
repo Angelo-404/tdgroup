@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezione di uno scavo a sezione obbligata profondo 2,10 metri, con scarpata, letto di posa in ghiaietto e condotta da 200 millimetri",
+  "generata": true
+ },
+ "01-scavo-sezione-obbligata.jpg": {
+  "slug": "scavo-sezione-obbligata",
+  "alt": "Disegno tecnico: sezione di uno scavo a sezione obbligata profondo 2,10 metri, con scarpata, letto di posa in ghiaietto e condotta da 200 millimetri",
+  "generata": true
+ },
+ "02-sbancamento.jpg": {
+  "slug": "sbancamento",
+  "alt": "Disegno tecnico: sezione di uno sbancamento con il fondo portato alla quota di progetto e il materiale di scavo accantonato a lato",
+  "generata": true
+ },
+ "03-demolizione-selettiva.jpg": {
+  "slug": "demolizione-selettiva",
+  "alt": "Disegno tecnico: demolizione selettiva di un fabbricato rurale, con inerti, legno e metalli separati in cumuli distinti per il conferimento",
+  "generata": true
+ },
+ "04-dettaglio-scavo-sezione-obbligata.jpg": {
+  "slug": "dettaglio-scavo-sezione-obbligata",
+  "alt": "Dettaglio del disegno tecnico: letto di posa, condotta e rinfianco",
+  "generata": true
+ },
+ "05-dettaglio-sbancamento.jpg": {
+  "slug": "dettaglio-sbancamento",
+  "alt": "Dettaglio del disegno tecnico: il fondo scavo alla quota di progetto",
+  "generata": true
+ },
+ "06-dettaglio-demolizione-selettiva.jpg": {
+  "slug": "dettaglio-demolizione-selettiva",
+  "alt": "Dettaglio del disegno tecnico: i materiali separati per il conferimento",
+  "generata": true
+ },
+ "01-scavo-in-corso.jpg": {
+  "slug": "scavo-in-corso",
+  "alt": "Scavo in corso con escavatore cingolato in un’area di cantiere in aperta campagna",
+  "generata": true
+ },
+ "02-scavo-a-sezione-obbligata.jpg": {
+  "slug": "scavo-a-sezione-obbligata",
+  "alt": "Scavo a sezione obbligata per la posa di una condotta, con le pareti in sicurezza e il fondo in quota",
+  "generata": true
+ },
+ "03-condotta-su-letto-di-posa.jpg": {
+  "slug": "condotta-su-letto-di-posa",
+  "alt": "Condotta posata sul letto di ghiaietto nel fondo dello scavo, prima del rinfianco",
+  "generata": true
+ },
+ "04-demolizione-fabbricato.jpg": {
+  "slug": "demolizione-fabbricato",
+  "alt": "Demolizione di un fabbricato rurale dismesso con escavatore attrezzato a pinza",
+  "generata": true
+ },
+ "05-materiali-separati.jpg": {
+  "slug": "materiali-separati",
+  "alt": "Materiali di risulta separati in cumuli distinti per il conferimento: inerti, legno e metalli",
+  "generata": true
+ },
+ "06-benna-e-muratura-dettaglio.jpg": {
+  "slug": "benna-e-muratura-dettaglio",
+  "alt": "Dettaglio della pinza dell’escavatore che afferra la muratura durante la demolizione selettiva",
+  "generata": true
+ },
+ "07-area-ripristinata.jpg": {
+  "slug": "area-ripristinata",
+  "alt": "Area ripristinata dopo la demolizione, con il terreno riportato in quota e di nuovo utilizzabile",
+  "generata": true
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezione di un campo prima e dopo il livellamento, con le aree di scavo e di riporto e la pendenza di progetto allo 0,2 per cento",
+  "generata": true
+ },
+ "01-sezione-scavo-riporto.jpg": {
+  "slug": "sezione-scavo-riporto",
+  "alt": "Disegno tecnico: sezione di un campo prima e dopo il livellamento, con le aree di scavo e di riporto e la pendenza di progetto allo 0,2 per cento",
+  "generata": true
+ },
+ "02-controllo-lama.jpg": {
+  "slug": "controllo-lama",
+  "alt": "Disegno tecnico: livellatrice guidata dal piano laser, con il ricevitore sull’asta che corregge la quota della lama",
+  "generata": true
+ },
+ "03-pianta-passate.jpg": {
+  "slug": "pianta-passate",
+  "alt": "Disegno tecnico: pianta di un appezzamento con le passate della livellatrice e il verso in cui il campo deve scolare",
+  "generata": true
+ },
+ "04-dettaglio-sezione-scavo-riporto.jpg": {
+  "slug": "dettaglio-sezione-scavo-riporto",
+  "alt": "Dettaglio del disegno tecnico: la zona di scavo fra profilo e progetto",
+  "generata": true
+ },
+ "05-dettaglio-controllo-lama.jpg": {
+  "slug": "dettaglio-controllo-lama",
+  "alt": "Dettaglio del disegno tecnico: il ricevitore sul piano laser",
+  "generata": true
+ },
+ "06-dettaglio-pianta-passate.jpg": {
+  "slug": "dettaglio-pianta-passate",
+  "alt": "Dettaglio del disegno tecnico: il verso in cui il campo scola",
+  "generata": true
+ },
+ "01-campo-in-livellamento.jpg": {
+  "slug": "campo-in-livellamento",
+  "alt": "Campo di pianura durante il livellamento, con la livellatrice al lavoro in lontananza sotto un cielo coperto",
+  "generata": true
+ },
+ "02-livellatrice-al-lavoro.jpg": {
+  "slug": "livellatrice-al-lavoro",
+  "alt": "Trattore con livellatrice a controllo laser che taglia il terreno per dargli una pendenza costante",
+  "generata": true
+ },
+ "03-ricevitore-sull-asta.jpg": {
+  "slug": "ricevitore-sull-asta",
+  "alt": "Ricevitore laser in cima all’asta della livellatrice, che legge il piano di riferimento e corregge la quota della lama",
+  "generata": true
+ },
+ "04-lama-che-taglia.jpg": {
+  "slug": "lama-che-taglia",
+  "alt": "Dettaglio della lama della livellatrice che incide il terreno e spinge avanti la terra tagliata",
+  "generata": true
+ },
+ "05-trasmettitore-a-bordo-campo.jpg": {
+  "slug": "trasmettitore-a-bordo-campo",
+  "alt": "Trasmettitore laser su treppiede a bordo campo, riferimento di quota per la macchina che lavora in lontananza",
+  "generata": true
+ },
+ "06-superficie-finita.jpg": {
+  "slug": "superficie-finita",
+  "alt": "Superficie del campo dopo il livellamento: piano regolare senza avvallamenti, pronto per la semina",
+  "generata": true
+ },
+ "07-tracce-delle-passate.jpg": {
+  "slug": "tracce-delle-passate",
+  "alt": "Le passate parallele della livellatrice sul terreno appena lavorato, viste dall’alto del bordo campo",
+  "generata": true
+ }
+}

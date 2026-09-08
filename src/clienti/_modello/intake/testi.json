@@ -1,0 +1,28 @@
+{
+ "sitoPrecedente": false,
+ "servizi": [
+  {
+   "slug": "rifacimento-tetti",
+   "nome": "Rifacimento tetti",
+   "titolo": "Rifacimento tetti e coperture",
+   "intro": "Due o tre frasi: e' il testo che si legge sotto il titolo, prima delle foto. Deve dire cosa si fa e per chi.",
+   "corpo": [
+    "Un paragrafo per ogni cosa che vale la pena dire. Materiali per nome, lavorazioni concrete, cosa e' compreso.",
+    "# Un titolo intermedio si scrive cosi'",
+    "E sotto ci va il suo paragrafo."
+   ],
+   "cta": "Richiedi un sopralluogo gratuito.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per il rifacimento del tetto."
+  },
+  {
+   "slug": "ristrutturazioni",
+   "nome": "Ristrutturazioni",
+   "titolo": "Ristrutturazioni chiavi in mano",
+   "intro": "{{DA_SCRIVERE}}",
+   "corpo": [],
+   "cta": "Parliamo del vostro progetto.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per una ristrutturazione."
+  }
+ ],
+ "redirect": []
+}

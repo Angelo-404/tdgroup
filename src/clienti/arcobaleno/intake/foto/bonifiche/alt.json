@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: la stessa sezione di terreno prima e dopo la bonifica, con il ristagno cronico da una parte e la pendenza regolare con i dreni dall’altra",
+  "generata": true
+ },
+ "01-sequenza-intervento.jpg": {
+  "slug": "sequenza-intervento",
+  "alt": "Disegno tecnico: i quattro passi di una bonifica agraria in sequenza, dal rilievo delle quote al livellamento, alla rete di drenaggio, al riordino delle scoline",
+  "generata": true
+ },
+ "02-prima-e-dopo.jpg": {
+  "slug": "prima-e-dopo",
+  "alt": "Disegno tecnico: la stessa sezione di terreno prima e dopo la bonifica, con il ristagno cronico da una parte e la pendenza regolare con i dreni dall’altra",
+  "generata": true
+ },
+ "03-zone-da-recuperare.jpg": {
+  "slug": "zone-da-recuperare",
+  "alt": "Disegno tecnico: pianta di un appezzamento di 6,4 ettari con evidenziate le zone che ogni anno si perdono per ristagno e le scoline da riordinare",
+  "generata": true
+ },
+ "04-dettaglio-sequenza-intervento.jpg": {
+  "slug": "dettaglio-sequenza-intervento",
+  "alt": "Dettaglio del disegno tecnico: dal livellamento alla rete di drenaggio",
+  "generata": true
+ },
+ "05-dettaglio-prima-e-dopo.jpg": {
+  "slug": "dettaglio-prima-e-dopo",
+  "alt": "Dettaglio del disegno tecnico: la parte di campo che ristagna",
+  "generata": true
+ },
+ "06-dettaglio-zone-da-recuperare.jpg": {
+  "slug": "dettaglio-zone-da-recuperare",
+  "alt": "Dettaglio del disegno tecnico: una delle zone a ristagno",
+  "generata": true
+ },
+ "01-terreno-da-recuperare.jpg": {
+  "slug": "terreno-da-recuperare",
+  "alt": "Terreno agricolo da recuperare, con le zone di ristagno che ogni anno si perdono",
+  "generata": true
+ },
+ "02-ristagno-prima.jpg": {
+  "slug": "ristagno-prima",
+  "alt": "Ristagno cronico in una depressione del campo prima della bonifica, con la coltura persa",
+  "generata": true
+ },
+ "03-appezzamento-abbandonato.jpg": {
+  "slug": "appezzamento-abbandonato",
+  "alt": "Appezzamento abbandonato invaso da vegetazione spontanea, prima dell’intervento di recupero",
+  "generata": true
+ },
+ "04-lavori-in-corso.jpg": {
+  "slug": "lavori-in-corso",
+  "alt": "Lavori di bonifica in corso: livellamento e riordino delle scoline sullo stesso appezzamento",
+  "generata": true
+ },
+ "05-nuova-rete-di-scoline.jpg": {
+  "slug": "nuova-rete-di-scoline",
+  "alt": "Nuova rete di scoline aperta e profilata durante la bonifica del terreno",
+  "generata": true
+ },
+ "06-posa-dreni-in-bonifica.jpg": {
+  "slug": "posa-dreni-in-bonifica",
+  "alt": "Posa dei dreni durante la bonifica, integrata con il livellamento e il riordino degli scoli",
+  "generata": true
+ },
+ "07-terreno-recuperato.jpg": {
+  "slug": "terreno-recuperato",
+  "alt": "Terreno bonificato e tornato lavorabile, arato in modo regolare e senza zone di ristagno",
+  "generata": true
+ }
+}

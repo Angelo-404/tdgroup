@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezione di un impianto di subirrigazione con l’ala gocciolante interrata a 35 centimetri e il bulbo di umettamento attorno alle radici",
+  "generata": true
+ },
+ "01-sezione-ala-interrata.jpg": {
+  "slug": "sezione-ala-interrata",
+  "alt": "Disegno tecnico: sezione di un impianto di subirrigazione con l’ala gocciolante interrata a 35 centimetri e il bulbo di umettamento attorno alle radici",
+  "generata": true
+ },
+ "02-pianta-impianto.jpg": {
+  "slug": "pianta-impianto",
+  "alt": "Disegno tecnico: pianta di un impianto di subirrigazione con collettore di testata, valvola, contatore e ali interrate a interasse di 1,60 metri",
+  "generata": true
+ },
+ "03-confronto-aspersione.jpg": {
+  "slug": "confronto-aspersione",
+  "alt": "Disegno tecnico: confronto fra irrigazione per aspersione e subirrigazione, con le perdite per evaporazione da una parte e l’acqua portata alle radici dall’altra",
+  "generata": true
+ },
+ "04-dettaglio-sezione-ala-interrata.jpg": {
+  "slug": "dettaglio-sezione-ala-interrata",
+  "alt": "Dettaglio del disegno tecnico: il bulbo attorno all’ala",
+  "generata": true
+ },
+ "05-dettaglio-pianta-impianto.jpg": {
+  "slug": "dettaglio-pianta-impianto",
+  "alt": "Dettaglio del disegno tecnico: la testata con valvola e contatore",
+  "generata": true
+ },
+ "06-dettaglio-confronto-aspersione.jpg": {
+  "slug": "dettaglio-confronto-aspersione",
+  "alt": "Dettaglio del disegno tecnico: l’acqua alla profondità delle radici",
+  "generata": true
+ },
+ "01-campo-con-impianto.jpg": {
+  "slug": "campo-con-impianto",
+  "alt": "Campo servito da un impianto di subirrigazione, con la condotta di testata lungo il bordo",
+  "generata": true
+ },
+ "02-posa-dell-ala.jpg": {
+  "slug": "posa-dell-ala",
+  "alt": "Posa delle ali gocciolanti interrate dietro il trattore, alla profondità delle radici",
+  "generata": true
+ },
+ "03-ala-interrata-dettaglio.jpg": {
+  "slug": "ala-interrata-dettaglio",
+  "alt": "Dettaglio dell’ala gocciolante nel solco appena aperto, prima che il terreno si richiuda sopra",
+  "generata": true
+ },
+ "04-collettore-di-testata.jpg": {
+  "slug": "collettore-di-testata",
+  "alt": "Collettore di testata dell’impianto di subirrigazione, con gli stacchi delle singole ali",
+  "generata": true
+ },
+ "05-gocciolatore-dettaglio.jpg": {
+  "slug": "gocciolatore-dettaglio",
+  "alt": "Dettaglio del gocciolatore integrato nell’ala, che rilascia l’acqua a portata bassa e continua",
+  "generata": true
+ },
+ "06-coltura-uniforme.jpg": {
+  "slug": "coltura-uniforme",
+  "alt": "Coltura uniforme irrigata dal basso: superficie del terreno asciutta e piante regolari lungo le file",
+  "generata": true
+ },
+ "07-filtro-e-valvole.jpg": {
+  "slug": "filtro-e-valvole",
+  "alt": "Gruppo di filtraggio e valvole all’avvio dell’impianto di subirrigazione",
+  "generata": true
+ }
+}

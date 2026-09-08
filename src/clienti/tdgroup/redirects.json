@@ -1,0 +1,67 @@
+[
+ {
+  "source": "/ristrutturazioni",
+  "destination": "/servizi/ristrutturazioni",
+  "permanent": true
+ },
+ {
+  "source": "/isolamento-a-cappotto",
+  "destination": "/servizi/isolamento-a-cappotto",
+  "permanent": true
+ },
+ {
+  "source": "/ristrutturazione-bagni",
+  "destination": "/servizi/ristrutturazione-bagni",
+  "permanent": true
+ },
+ {
+  "source": "/tetti",
+  "destination": "/servizi/tetti",
+  "permanent": true
+ },
+ {
+  "source": "/pareti-e-soffitti-in-cartongesso",
+  "destination": "/servizi/pareti-e-soffitti-in-cartongesso",
+  "permanent": true
+ },
+ {
+  "source": "/tinteggiatura-interna-ed-esterna",
+  "destination": "/servizi/tinteggiatura-interna-ed-esterna",
+  "permanent": true
+ },
+ {
+  "source": "/pitture-di-interior-design",
+  "destination": "/servizi/pitture-di-interior-design",
+  "permanent": true
+ },
+ {
+  "source": "/posa-pavimenti-e-rivestimenti",
+  "destination": "/servizi/posa-pavimenti-e-rivestimenti",
+  "permanent": true
+ },
+ {
+  "source": "/pova-pavimenti-e-rivestimenti",
+  "destination": "/servizi/posa-pavimenti-e-rivestimenti",
+  "permanent": true
+ },
+ {
+  "source": "/serramenti-infissi-e-porte-interne",
+  "destination": "/servizi/serramenti-infissi-e-porte-interne",
+  "permanent": true
+ },
+ {
+  "source": "/serrmanenti-infissi-e-porte-interne",
+  "destination": "/servizi/serramenti-infissi-e-porte-interne",
+  "permanent": true
+ },
+ {
+  "source": "/home-prova-1",
+  "destination": "/",
+  "permanent": true
+ },
+ {
+  "source": "/contact",
+  "destination": "/contatti",
+  "permanent": true
+ }
+]

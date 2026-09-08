@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezione trasversale di un campo baulato con la scolina riprofilata fra due baulature e il verso in cui l’acqua scola",
+  "generata": true
+ },
+ "01-baulatura-e-scolina.jpg": {
+  "slug": "baulatura-e-scolina",
+  "alt": "Disegno tecnico: sezione trasversale di un campo baulato con la scolina riprofilata fra due baulature e il verso in cui l’acqua scola",
+  "generata": true
+ },
+ "02-invaso-irriguo.jpg": {
+  "slug": "invaso-irriguo",
+  "alt": "Disegno tecnico: sezione di un invaso per l’acqua irrigua con scarpate sagomate, argine di rilevato e quota di massimo invaso a 3,20 metri",
+  "generata": true
+ },
+ "03-capezzagna-e-riporto.jpg": {
+  "slug": "capezzagna-e-riporto",
+  "alt": "Disegno tecnico: sezione di una capezzagna transitabile formata con riporto, larga quattro metri, con il fosso di guardia a lato",
+  "generata": true
+ },
+ "04-dettaglio-baulatura-e-scolina.jpg": {
+  "slug": "dettaglio-baulatura-e-scolina",
+  "alt": "Dettaglio del disegno tecnico: la scolina fra due baulature",
+  "generata": true
+ },
+ "05-dettaglio-invaso-irriguo.jpg": {
+  "slug": "dettaglio-invaso-irriguo",
+  "alt": "Dettaglio del disegno tecnico: l’argine e il pelo di massimo invaso",
+  "generata": true
+ },
+ "06-dettaglio-capezzagna-e-riporto.jpg": {
+  "slug": "dettaglio-capezzagna-e-riporto",
+  "alt": "Dettaglio del disegno tecnico: il raccordo fra riporto e fosso",
+  "generata": true
+ },
+ "01-cantiere-in-campo.jpg": {
+  "slug": "cantiere-in-campo",
+  "alt": "Cantiere di movimento terra in un appezzamento agricolo, con l’escavatore al lavoro sulla rete di scolo",
+  "generata": true
+ },
+ "02-riprofilatura-scolina.jpg": {
+  "slug": "riprofilatura-scolina",
+  "alt": "Escavatore che riprofila una scolina, ripristinando la sezione e la pendenza del fosso",
+  "generata": true
+ },
+ "03-formazione-capezzagna.jpg": {
+  "slug": "formazione-capezzagna",
+  "alt": "Formazione di una capezzagna transitabile con riporto di materiale e compattazione",
+  "generata": true
+ },
+ "04-scavo-dell-invaso.jpg": {
+  "slug": "scavo-dell-invaso",
+  "alt": "Scavo di un invaso per l’acqua irrigua, con le sponde in corso di sagomatura",
+  "generata": true
+ },
+ "05-invaso-finito.jpg": {
+  "slug": "invaso-finito",
+  "alt": "Invaso irriguo completato e pieno d’acqua, con le sponde inerbite e l’argine perimetrale",
+  "generata": true
+ },
+ "06-profilo-di-scavo-dettaglio.jpg": {
+  "slug": "profilo-di-scavo-dettaglio",
+  "alt": "Dettaglio del profilo di scavo, con gli strati del terreno messi a nudo dalla benna",
+  "generata": true
+ },
+ "07-trasporto-terra.jpg": {
+  "slug": "trasporto-terra",
+  "alt": "Trasporto del materiale di scavo con dumper lungo la pista di cantiere",
+  "generata": true
+ }
+}
