@@ -1,0 +1,203 @@
+{
+ "sitoPrecedente": true,
+ "servizi": [
+  {
+   "slug": "ristrutturazioni",
+   "slugVecchio": null,
+   "nome": "Ristrutturazioni",
+   "titolo": "Ristrutturazioni chiavi in mano",
+   "intro": "Affrontare una ristrutturazione non deve essere fonte di stress. TD Group srls si pone come General Contractor per interventi residenziali e commerciali, offrendo un servizio completo che libera il cliente da ogni preoccupazione gestionale. Operiamo a Molinella, in tutta la provincia di Bologna e oltre, con l’obiettivo di trasformare immobili datati in spazi moderni, sicuri ed efficienti dal punto di vista energetico.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Il nostro approccio si basa sulla gestione integrale dell’intero ciclo di vita del cantiere, sollevando il proprietario dall’onere di coordinare muratori, idraulici ed elettricisti. Ci occupiamo direttamente della demolizione e dello smaltimento sicuro e certificato dei vecchi materiali, procedendo poi con la costruzione delle opere murarie e la realizzazione di nuova impiantistica a norma di legge. Il processo si conclude con la cura meticolosa delle finiture, dalla posa dei pavimenti ai rivestimenti fino alle tinteggiature finali."
+    },
+    {
+     "tipo": "p",
+     "testo": "Siamo specializzati in diverse tipologie di intervento, che spaziano dalla ristrutturazione totale con ridistribuzione degli spazi interni per la creazione di open space, al recupero di edifici storici attraverso il risanamento conservativo. Interveniamo inoltre con successo su locali commerciali, garantendo il rispetto rigoroso delle tempistiche per permettere una rapida riapertura di negozi e uffici. Sceglierci significa affidarsi a un team caratterizzato da esperienza, professionalità e capacità di offrire preventivi chiari, direzione lavori quotidiana e un’assistenza post-lavori dedicata per ogni personalizzazione su misura."
+    }
+   ],
+   "cta": "Hai un progetto in mente? Richiedi un sopralluogo gratuito.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per una ristrutturazione.",
+   "chiaveFoto": "ristrutturazioni"
+  },
+  {
+   "slug": "isolamento-a-cappotto",
+   "slugVecchio": null,
+   "nome": "Isolamento a cappotto",
+   "titolo": "Isolamento termico a cappotto",
+   "intro": "L’isolamento termico a cappotto rappresenta uno degli interventi più efficaci per ridurre i consumi energetici, migliorare il comfort abitativo e aumentare il valore del tuo immobile.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "La nostra impresa è specializzata nella progettazione e realizzazione di cappotti termici certificati, studiati per eliminare la dispersione di calore e garantire un’elevata efficienza energetica in ville, abitazioni indipendenti, appartamenti e condomini. Ogni intervento viene progettato su misura, analizzando le caratteristiche dell’edificio e individuando la soluzione più performante."
+    },
+    {
+     "tipo": "h",
+     "testo": "I vantaggi del cappotto termico"
+    },
+    {
+     "tipo": "p",
+     "testo": "Un sistema di isolamento a cappotto consente un risparmio energetico che può arrivare fino al 40%, grazie a un isolamento continuo su tutta la superficie dell’edificio, con una significativa riduzione dei costi di riscaldamento in inverno e di climatizzazione in estate."
+    },
+    {
+     "tipo": "p",
+     "testo": "Dal punto di vista del comfort abitativo, il cappotto garantisce ambienti più caldi nei mesi freddi e più freschi durante l’estate, con temperature uniformi e senza sbalzi termici. L’eliminazione dei ponti termici riduce inoltre la formazione di muffa e condensa, migliorando la salubrità degli spazi interni."
+    },
+    {
+     "tipo": "p",
+     "testo": "Un ulteriore beneficio riguarda la valorizzazione dell’immobile: una migliore classe energetica aumenta il valore commerciale dell’edificio e ne migliora l’attrattività sul mercato."
+    },
+    {
+     "tipo": "h",
+     "testo": "Cappotto esterno"
+    },
+    {
+     "tipo": "p",
+     "testo": "Il cappotto esterno è la soluzione più efficace per ottenere un isolamento completo dell’edificio. Utilizziamo pannelli isolanti di alta qualità come EPS, EPS grafite ad alte prestazioni e lana di roccia per un isolamento termo-acustico superiore e una maggiore resistenza al fuoco. È l’intervento ideale per villette, case singole, condomini e facciate da riqualificare."
+    },
+    {
+     "tipo": "h",
+     "testo": "Cappotto interno"
+    },
+    {
+     "tipo": "p",
+     "testo": "Il cappotto interno è consigliato quando non è possibile intervenire sulla facciata esterna, ad esempio in appartamenti in condominio, edifici vincolati o immobili soggetti a limitazioni urbanistiche. Proponiamo soluzioni a basso spessore che migliorano l’efficienza energetica senza ridurre in modo significativo gli spazi interni, garantendo comunque ottimi risultati in termini di comfort e isolamento."
+    },
+    {
+     "tipo": "p",
+     "testo": "Seguiamo ogni fase del lavoro, dal sopralluogo tecnico alla progettazione personalizzata, fino alla posa certificata a regola d’arte e alle finiture finali, nel pieno rispetto delle normative vigenti e con materiali certificati."
+    }
+   ],
+   "cta": "Richiedi il tuo preventivo gratuito Contattaci per una consulenza senza impegno:",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per un cappotto termico.",
+   "chiaveFoto": "isolamento-a-cappotto"
+  },
+  {
+   "slug": "ristrutturazione-bagni",
+   "slugVecchio": null,
+   "nome": "Ristrutturazione bagni",
+   "titolo": "Ristrutturazione bagni",
+   "intro": "Ristrutturare il bagno è un intervento delicato che può creare disagi. Il pacchetto “Bagno Senza Pensieri” di TD Group coordina ogni fase del lavoro per garantirti tempi rapidi e un risultato di design, sollevandoti da ogni preoccupazione gestionale.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Il nostro processo inizia con la protezione accurata delle aree di passaggio e la demolizione completa di vecchi sanitari e rivestimenti. Procediamo poi con il rifacimento integrale degli impianti idraulici ed elettrici, la preparazione dei massetti con guaine anti-infiltrazione e la posa meticolosa di pavimenti in gres, sanitari moderni e box doccia. Siamo inoltre esperti in interventi specifici come la trasformazione della vasca in doccia e la realizzazione di bagni per disabili o anziani, progettati con soluzioni ergonomiche e senza barriere architettoniche nel pieno rispetto delle normative. Al termine dei lavori, rilasciamo regolarmente tutte le dichiarazioni di conformità degli impianti installati."
+    }
+   ],
+   "cta": "Richiedi un preventivo per il tuo nuovo bagno.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per rifare il bagno.",
+   "chiaveFoto": "ristrutturazione-bagni"
+  },
+  {
+   "slug": "tetti",
+   "slugVecchio": null,
+   "nome": "Tetti",
+   "titolo": "Tetti e tettoie",
+   "intro": "Il tetto è l’elemento della casa più esposto all’usura e agli agenti atmosferici. Siamo specializzati nel rifacimento e nella manutenzione di coperture civili e industriali, assicurando impermeabilizzazione, isolamento termico e interventi duraturi eseguiti a regola d’arte.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "I nostri servizi includono il rifacimento completo della copertura, dallo smantellamento alla posa di tegole o materiali tecnici moderni, e la realizzazione di tetti ventilati, una tecnologia che permette alla struttura di “respirare” riducendo il surriscaldamento estivo. Ci occupiamo inoltre di impermeabilizzazioni specifiche con guaine bituminose o resine, della posa di lattoneria in rame, alluminio o acciaio, e dell’installazione di sistemi Linea Vita certificati, obbligatori per ogni futura manutenzione. Infine, offriamo un servizio di bonifica e isolamento dei sottotetti, gestendo anche lo smaltimento certificato di materiali di risulta e amianto attraverso ditte specializzate."
+    }
+   ],
+   "cta": "Chiamaci subito per una verifica del tuo tetto.",
+   "ctaWhatsapp": "Salve, vorrei una verifica del tetto.",
+   "chiaveFoto": "tetti"
+  },
+  {
+   "slug": "pareti-e-soffitti-in-cartongesso",
+   "slugVecchio": null,
+   "nome": "Cartongesso",
+   "titolo": "Pareti e soffitti in cartongesso",
+   "intro": "Il cartongesso è oggi la soluzione più moderna e versatile per ridisegnare gli ambienti in modo rapido, pulito e reversibile. TD Group progetta e installa strutture che uniscono la funzionalità tecnica dell’isolamento a un impatto estetico di alto design, adattandosi perfettamente a ogni esigenza architettonica.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Le nostre soluzioni includono la creazione di pareti divisorie per nuove stanze o cabine armadio, controsoffitti con abbassamenti estetici e velette curve predisposte per l’alloggiamento di faretti e strisce LED, nonché pareti attrezzate con librerie su misura e nicchie integrate per la TV. Dal punto di vista tecnico, selezioniamo le lastre in base alla destinazione d’uso, impiegando idrolastre verdi resistenti all’umidità per bagni e cucine, lastre ignifughe Rei per locali caldaia e soluzioni ad alto isolamento acustico o termico con intercapedini in lana di roccia. I vantaggi principali del cartongesso risiedono nella velocità di esecuzione e nella natura “asciutta” del cantiere, che riduce polvere e macerie lasciando superfici lisce pronte per la finitura."
+    }
+   ],
+   "cta": "Vuoi abbassare il soffitto o creare una parete divisoria? Chiedici un preventivo.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per un lavoro in cartongesso.",
+   "chiaveFoto": "pareti-e-soffitti-in-cartongesso"
+  },
+  {
+   "slug": "tinteggiatura-interna-ed-esterna",
+   "slugVecchio": null,
+   "nome": "Tinteggiatura",
+   "titolo": "Tinteggiatura interna ed esterna",
+   "intro": "La tinteggiatura rappresenta il vero e proprio vestito della tua casa. Per questo motivo offriamo servizi di imbiancatura per interni ed esterni utilizzando esclusivamente materiali tecnici di alta qualità che garantiscono durata nel tempo, salubrità degli ambienti e un’estetica impeccabile.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Per quanto riguarda gli interni, il nostro obiettivo è massimizzare il benessere abitativo. Non utilizziamo semplici vernici, ma trattamenti specifici come le idropitture traspiranti e lavabili, ideali per soggiorni e camere da letto. Per le zone più critiche applichiamo cicli di sanificazione con trattamenti antimuffa certificati che eliminano spore e batteri, mentre per la salute dei bambini e dei soggetti allergici proponiamo vernici VOC-Free a zero emissioni. Completiamo l’offerta con smaltature professionali per la rigenerazione di porte, termosifoni e infissi. Il nostro metodo di lavoro prevede una copertura meticolosa di mobili e pavimenti e una pulizia finale accurata, avvalendoci di ponteggi di proprietà per interventi rapidi e sicuri."
+    },
+    {
+     "tipo": "p",
+     "testo": "Sul fronte delle tinteggiature esterne, agiamo come uno scudo contro il tempo e gli agenti atmosferici tipici della Pianura Padana. Utilizziamo pitture al quarzo per la loro resistenza meccanica, pitture silossaniche per garantire massima idrorepellenza e traspirabilità, e cicli elastomerici specifici per prevenire fessurazioni su facciate soggette a micro-crepe."
+    }
+   ],
+   "cta": "Dai nuovo colore ai tuoi spazi. Contattaci per una cartella colori.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per una tinteggiatura.",
+   "chiaveFoto": "tinteggiatura-interna-ed-esterna"
+  },
+  {
+   "slug": "pitture-di-interior-design",
+   "slugVecchio": null,
+   "nome": "Pitture decorative",
+   "titolo": "Pitture di interior design",
+   "intro": "Per chi desidera superare il concetto di colore uniforme, il nostro team trasforma le pareti in veri elementi d’arredo attraverso tecniche artigianali e materiali di alta gamma. Ogni intervento è pensato per donare personalità e carattere unico a ogni stanza.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Le nostre tecniche decorative spaziano dallo Stucco Veneziano, che offre una finitura lucida e pregiata come il marmo, agli Effetti Materici come l’Effetto Cemento per loft industriali o l’Effetto Pietra Spaccata per texture tridimensionali di forte impatto. Realizziamo inoltre decorazioni personalizzate con stencil per motivi geometrici o floreali, velature e spugnati per atmosfere morbide e classiche, e pitture sabbiate o perlate che giocano con la riflessione della luce. Per gli ambienti più moderni, proponiamo resine a parete che creano superfici continue senza fughe, ideali anche per rinnovare bagni e cucine senza demolire le vecchie piastrelle. Per guidarti in questo percorso, offriamo una consulenza cromatica dedicata che valuta luce naturale, arredi e spazi, realizzando prove colore su campioni per un risultato finale armonioso."
+    }
+   ],
+   "cta": "Rendi unica la tua casa. Prenota una consulenza decorativa.",
+   "ctaWhatsapp": "Salve, vorrei informazioni sulle pitture decorative.",
+   "chiaveFoto": "pitture-di-interior-design"
+  },
+  {
+   "slug": "posa-pavimenti-e-rivestimenti",
+   "slugVecchio": "pova-pavimenti-e-rivestimenti",
+   "nome": "Pavimenti e rivestimenti",
+   "titolo": "Posa pavimenti e rivestimenti",
+   "intro": "Per ogni intervento di posa, collaboriamo esclusivamente con pavimentisti specializzati che operano in sinergia con il nostro team per garantire precisione millimetrica e cura del dettaglio, dalla preparazione dei sottofondi alla sigillatura finale.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Per gli interni spaziamo dal gres porcellanato in ogni sua declinazione materica, incluse le grandi lastre XXL per un design minimale, al calore senza tempo del parquet in legno massello o prefinito, fino alle soluzioni rapide in LVT e laminato ideali per ristrutturazioni sopra pavimenti esistenti. Per gli esterni, offriamo soluzioni resistenti al gelo e al calpestio come il gres spessorato da 20 mm, masselli autobloccanti e pietre naturali. Un punto cruciale della nostra attività è l’impermeabilizzazione dei terrazzi, un intervento fondamentale per proteggere la soletta e garantire la salubrità degli ambienti sottostanti. Il nostro servizio include sempre la demolizione del vecchio, il rifacimento dei massetti e il supporto tecnico nella scelta dei formati più adatti."
+    }
+   ],
+   "cta": "Scopri le nuove tendenze per i tuoi pavimenti.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per la posa di un pavimento.",
+   "chiaveFoto": "pova-pavimenti-e-rivestimenti"
+  },
+  {
+   "slug": "serramenti-infissi-e-porte-interne",
+   "slugVecchio": "serrmanenti-infissi-e-porte-interne",
+   "nome": "Serramenti e infissi",
+   "titolo": "Serramenti, infissi e porte interne",
+   "intro": "Scegliere infissi di qualità significa investire nel comfort e nel risparmio energetico. TD Group seleziona e installa serramenti certificati che abbattono i rumori, eliminano gli spifferi e migliorano drasticamente l’isolamento della tua abitazione.",
+   "corpo": [
+    {
+     "tipo": "p",
+     "testo": "Proponiamo diverse soluzioni materiche tra cui infissi in PVC per un ottimo rapporto qualità-prezzo e assenza di manutenzione, infissi in alluminio a taglio termico ideali per grandi vetrate moderne, e soluzioni in legno-alluminio per chi cerca il calore del materiale naturale unito alla resistenza esterna. Ogni serramento è equipaggiato con vetri evoluti basso-emissivi con gas Argon per trattenere il calore d’inverno e limitarlo d’estate. Completiamo l’offerta con porte blindate in classe antieffrazione 3 e 4 e una vasta gamma di porte interne battenti o scorrevoli. La posa in opera è affidata a installatori qualificati che assicurano prestazioni reali e durature, permettendoti inoltre di accedere alle detrazioni fiscali vigenti."
+    }
+   ],
+   "cta": "Richiedi un preventivo gratuito per nuovi serramenti.",
+   "ctaWhatsapp": "Salve, vorrei un preventivo per nuovi serramenti.",
+   "chiaveFoto": "serrmanenti-infissi-e-porte-interne"
+  }
+ ],
+ "redirect": [
+  {
+   "source": "/home-prova-1",
+   "destination": "/"
+  },
+  {
+   "source": "/contact",
+   "destination": "/contatti"
+  }
+ ]
+}

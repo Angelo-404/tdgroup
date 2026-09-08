@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: piano quotato di un appezzamento con maglia di punti rilevati, curve di livello e la depressione dove l’acqua ristagna",
+  "generata": true
+ },
+ "01-piano-quotato.jpg": {
+  "slug": "piano-quotato",
+  "alt": "Disegno tecnico: piano quotato di un appezzamento con maglia di punti rilevati, curve di livello e la depressione dove l’acqua ristagna",
+  "generata": true
+ },
+ "02-profilo-terreno.jpg": {
+  "slug": "profilo-terreno",
+  "alt": "Disegno tecnico: profilo reale del terreno confrontato con il piano di progetto, la differenza fra le due linee è la terra da muovere",
+  "generata": true
+ },
+ "03-catena-di-misura.jpg": {
+  "slug": "catena-di-misura",
+  "alt": "Disegno tecnico: emettitore laser su treppiede e asta con ricevitore che legge la quota del terreno in due punti diversi",
+  "generata": true
+ },
+ "04-dettaglio-piano-quotato.jpg": {
+  "slug": "dettaglio-piano-quotato",
+  "alt": "Dettaglio del disegno tecnico: la depressione dove ristagna l’acqua",
+  "generata": true
+ },
+ "05-dettaglio-profilo-terreno.jpg": {
+  "slug": "dettaglio-profilo-terreno",
+  "alt": "Dettaglio del disegno tecnico: lo scarto fra terreno e progetto",
+  "generata": true
+ },
+ "06-dettaglio-catena-di-misura.jpg": {
+  "slug": "dettaglio-catena-di-misura",
+  "alt": "Dettaglio del disegno tecnico: il ricevitore che legge la quota",
+  "generata": true
+ },
+ "01-campo-da-rilevare.jpg": {
+  "slug": "campo-da-rilevare",
+  "alt": "Appezzamento di pianura in stoppie prima del rilievo altimetrico, con il treppiede della stazione laser piantato sul bordo del campo",
+  "generata": true
+ },
+ "02-stazione-laser.jpg": {
+  "slug": "stazione-laser",
+  "alt": "Stazione laser rotante montata su treppiede a bordo campo, usata per rilevare le quote del terreno",
+  "generata": true
+ },
+ "03-asta-ricevitore.jpg": {
+  "slug": "asta-ricevitore",
+  "alt": "Operatore che regge l’asta graduata con il ricevitore laser in mezzo al campo durante il rilievo delle quote",
+  "generata": true
+ },
+ "04-dettaglio-ricevitore.jpg": {
+  "slug": "dettaglio-ricevitore",
+  "alt": "Dettaglio del ricevitore laser fissato all’asta graduata, con il terreno del campo sullo sfondo",
+  "generata": true
+ },
+ "05-rilievo-con-quad.jpg": {
+  "slug": "rilievo-con-quad",
+  "alt": "Quad attrezzato per il rilievo che percorre il campo lungo la maglia dei punti da quotare",
+  "generata": true
+ },
+ "06-ristagno-dopo-pioggia.jpg": {
+  "slug": "ristagno-dopo-pioggia",
+  "alt": "Acqua ferma in una depressione del campo dopo la pioggia: il ristagno che il rilievo altimetrico individua",
+  "generata": true
+ },
+ "07-scarico-a-fine-campo.jpg": {
+  "slug": "scarico-a-fine-campo",
+  "alt": "Fossato di scolo al limite dell’appezzamento, il punto dove l’acqua del campo deve poter uscire",
+  "generata": true
+ }
+}

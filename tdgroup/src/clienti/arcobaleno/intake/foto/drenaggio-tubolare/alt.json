@@ -1,0 +1,72 @@
+{
+ "00-copertina.jpg": {
+  "slug": "copertina",
+  "alt": "Disegno tecnico: sezione della trincea di drenaggio con dreno corrugato microfessurato da 80 millimetri posato a 1,10 metri, ghiaietto di filtro e tessuto non tessuto",
+  "generata": true
+ },
+ "01-sezione-trincea.jpg": {
+  "slug": "sezione-trincea",
+  "alt": "Disegno tecnico: sezione della trincea di drenaggio con dreno corrugato microfessurato da 80 millimetri posato a 1,10 metri, ghiaietto di filtro e tessuto non tessuto",
+  "generata": true
+ },
+ "02-pianta-rete.jpg": {
+  "slug": "pianta-rete",
+  "alt": "Disegno tecnico: pianta della rete di drenaggio a spina di pesce, con i dreni a interasse di 12 metri, il collettore e lo scarico",
+  "generata": true
+ },
+ "03-profilo-e-scarico.jpg": {
+  "slug": "profilo-e-scarico",
+  "alt": "Disegno tecnico: profilo longitudinale di una linea di dreno con pendenza costante dello 0,3 per cento, pozzetto di ispezione e recapito nel fosso",
+  "generata": true
+ },
+ "04-dettaglio-sezione-trincea.jpg": {
+  "slug": "dettaglio-sezione-trincea",
+  "alt": "Dettaglio del disegno tecnico: il dreno fessurato dentro il filtro",
+  "generata": true
+ },
+ "05-dettaglio-pianta-rete.jpg": {
+  "slug": "dettaglio-pianta-rete",
+  "alt": "Dettaglio del disegno tecnico: l’innesto nel collettore e lo scarico",
+  "generata": true
+ },
+ "06-dettaglio-profilo-e-scarico.jpg": {
+  "slug": "dettaglio-profilo-e-scarico",
+  "alt": "Dettaglio del disegno tecnico: il pozzetto e il recapito nel fosso",
+  "generata": true
+ },
+ "01-drenatrice-in-campo.jpg": {
+  "slug": "drenatrice-in-campo",
+  "alt": "Drenatrice al lavoro in un campo di pianura per la posa di una linea di dreno sotterraneo",
+  "generata": true
+ },
+ "02-drenatrice-al-lavoro.jpg": {
+  "slug": "drenatrice-al-lavoro",
+  "alt": "Drenatrice a controllo laser che apre la trincea e posa il tubo drenante mantenendo la pendenza costante",
+  "generata": true
+ },
+ "03-rotolo-di-dreno.jpg": {
+  "slug": "rotolo-di-dreno",
+  "alt": "Rotolo di tubo drenante corrugato microfessurato pronto in campo prima della posa",
+  "generata": true
+ },
+ "04-trincea-con-dreno-posato.jpg": {
+  "slug": "trincea-con-dreno-posato",
+  "alt": "Trincea aperta con il tubo drenante corrugato posato sul fondo, prima della richiusura",
+  "generata": true
+ },
+ "05-ghiaietto-sul-dreno.jpg": {
+  "slug": "ghiaietto-sul-dreno",
+  "alt": "Ghiaietto di filtro versato sopra il tubo drenante nella trincea, prima del rinterro",
+  "generata": true
+ },
+ "06-innesto-al-collettore.jpg": {
+  "slug": "innesto-al-collettore",
+  "alt": "Innesto delle linee di dreno nel collettore, dove l’acqua raccolta viene convogliata verso lo scarico",
+  "generata": true
+ },
+ "07-pozzetto-e-scarico.jpg": {
+  "slug": "pozzetto-e-scarico",
+  "alt": "Pozzetto di ispezione e bocca di scarico del drenaggio nel fosso a fine campo",
+  "generata": true
+ }
+}

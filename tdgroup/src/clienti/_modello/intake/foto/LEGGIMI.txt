@@ -1,0 +1,11 @@
+Una sottocartella per lavorazione. Il nome della cartella e' lo slug del
+servizio, lo stesso che compare in testi.json.
+
+Dentro ci vanno le foto grezze, con il nome che hanno: IMG-20240612-WA0031.jpg
+va benissimo. Lo script rinomina, ridimensiona e converte da solo.
+
+Minimo 6 foto per lavorazione. Sotto le 480 di larghezza la foto viene
+scartata.
+
+Le descrizioni alternative si scrivono in alt.json dentro ogni sottocartella.
+Vedi INTAKE.md alla radice del progetto.
