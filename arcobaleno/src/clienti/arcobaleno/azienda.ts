@@ -76,6 +76,13 @@ export const AZIENDA = {
   */
   descrizione: 'Drenaggio, livellamento laser e irrigazione per l’agricoltura',
 
+  /*
+    Arcobaleno un sito non ce l'ha: i contenuti delle bozze vengono dai
+    materiali che ci hanno dato loro. `null` perché il footer cambi frase
+    invece di citare un indirizzo che non esiste.
+  */
+  sitoAttuale: null,
+
   telefono: '051 697 0070',
   telefonoHref: 'tel:+390516970070',
   whatsapp: DA_FORNIRE.cellulare,

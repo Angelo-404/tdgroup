@@ -1,7 +1,7 @@
 {
   "buildCommand": "npm run build",
   "framework": "nextjs",
-  "alias": ["arcobaleno-angelo-cde6.vercel.app"],
+  "alias": ["arcobaleno-angelo-cde6.vercel.app", "arcobaleno-wine.vercel.app"],
   "env": {
     "CLIENTE": "arcobaleno"
   }

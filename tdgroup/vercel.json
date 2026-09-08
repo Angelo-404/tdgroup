@@ -1,7 +1,7 @@
 {
   "buildCommand": "npm run build",
   "framework": "nextjs",
-  "alias": ["tdgroup-angelo-cde6.vercel.app"],
+  "alias": ["tdgroup-angelo-cde6.vercel.app", "tdgroup.vercel.app"],
   "env": {
     "CLIENTE": "tdgroup"
   }

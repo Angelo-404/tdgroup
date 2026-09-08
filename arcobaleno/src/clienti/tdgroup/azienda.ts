@@ -61,6 +61,13 @@ export const AZIENDA = {
   ragioneSociale: 'TD Group S.r.l.s.',
   descrizione: 'Impresa edile e General Contractor',
 
+  /*
+    Il sito da cui provengono i contenuti delle bozze. Il footer lo cita per
+    dire da dove arriva il materiale: va letto da qui e non scritto a mano nei
+    componenti, altrimenti finisce sul sito di un altro cliente.
+  */
+  sitoAttuale: 'tdgroupsrls.it',
+
   telefono: '+39 348 6543343',
   telefonoHref: 'tel:+393486543343',
   whatsapp: '393486543343',

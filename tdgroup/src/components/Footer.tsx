@@ -154,7 +154,9 @@ export default function Footer() {
         )}
 
         <p className="mt-10 text-xs text-bone/35">
-          Bozza di lavoro. I contenuti provengono dal sito attuale tdgroupsrls.it.
+          {AZIENDA.sitoAttuale
+            ? `Bozza di lavoro. I contenuti provengono dal sito attuale ${AZIENDA.sitoAttuale}.`
+            : 'Bozza di lavoro. I contenuti provengono dai materiali forniti dall’azienda.'}
         </p>
       </div>
     </footer>
