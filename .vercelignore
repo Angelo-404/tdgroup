@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env.local
+.env.*.local
+node_modules
+.next/cache
+.turbo
+src/clienti/_modello
+scripts
+README.md
+CLAUDE.md
+AUDIT.md

@@ -1,0 +1,14 @@
+{
+  "buildCommand": "CLIENTE=${CLIENTE:-arcobaleno} npm run build",
+  "env": {
+    "CLIENTE": "@cliente_env"
+  },
+  "framework": "nextjs",
+  "regions": ["mia1"],
+  "functions": {
+    "api/**/*.ts": {
+      "memory": 1024,
+      "maxDuration": 300
+    }
+  }
+}
