@@ -1,7 +1,7 @@
 /**
  * I tipi delle sezioni dell'hub.
  *
- * L'hub è la pagina con cui vendo le tre bozze, e parla al cliente che devo
+ * L'hub è la pagina con cui vendo le tre anteprime, e parla al cliente che devo
  * acquisire. Gli argomenti che usa dipendono da chi ho davanti: a TD Group
  * parlo di 583 foto di cantiere mai pubblicate, ad Arcobaleno del fatto che
  * in rete di loro c'è una riga su PagineGialle.

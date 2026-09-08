@@ -1,7 +1,7 @@
 /**
  * Contenuti dei blocchi aggiunti alla Vetrina.
  *
- * Le risposte alle domande frequenti sono **bozze scritte da noi**: dicono
+ * Le risposte alle domande frequenti sono **anteprime scritte da noi**: dicono
  * cose plausibili ma non verificate. Ogni voce marcata `daConfermare` compare
  * nella pagina con un segno visibile, così in riunione si vede subito cosa
  * TD Group deve confermare o correggere. Nessuna diventa definitiva da sola.

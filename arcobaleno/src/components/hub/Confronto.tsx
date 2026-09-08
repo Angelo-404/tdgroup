@@ -310,7 +310,7 @@ export default function Confronto() {
                     grande ? 'decoration-ink/30' : 'decoration-bone/25'
                   }`}
                 >
-                  Apri la bozza {l.nome}
+                  Apri l’anteprima {l.nome}
                 </Link>
               </Reveal>
             );

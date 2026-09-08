@@ -11,7 +11,7 @@ import type { Dettaglio, GruppoExtra } from '@/data/livelli';
  * fiscali: gli argomenti sono la stagione, il campo, lo scarico, gli ettari.
  * Gli esempi di ricerca su Google sono quelli che digita un agricoltore.
  *
- * Come per il resto della bozza, nessun numero e nessuna referenza:
+ * Come per il resto dell’anteprima, nessun numero e nessuna referenza:
  * quante squadre abbiano, quanti ettari abbiano fatto e da quando lavorino
  * non ce lo ha detto nessuno.
  */

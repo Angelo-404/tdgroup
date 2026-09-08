@@ -3,7 +3,7 @@ import type { SezioneHub, VisualeBozza } from '@/data/hub';
 /**
  * I testi dell'hub, per Arcobaleno S.r.l.
  *
- * L'hub è la pagina con cui vendo le tre bozze, quindi qui parlo io e parlo a
+ * L'hub è la pagina con cui vendo le tre anteprime, quindi qui parlo io e parlo a
  * loro. Gli argomenti sono diversi da quelli usati con TD Group per un motivo
  * strutturale: TD Group un sito ce l'ha, pieno di foto mai pubblicate.
  * Arcobaleno non ha niente. Non è una versione più debole dello stesso
@@ -30,14 +30,14 @@ export const MESTIERE_HERO = 'per chi lavora la terra.';
 export const PRESENTAZIONE =
   'Ho dieci anni di produzione e controllo qualità industriale alle spalle. Li uso, insieme all’intelligenza artificiale, per costruire strumenti digitali che reggono il lavoro vero, quello che si fa fuori.';
 
-/** L'introduzione della griglia con le tre bozze. */
+/** L'introduzione della griglia con le tre anteprime. */
 export const INTRO_BOZZE =
   'Stessi contenuti, stesse lavorazioni. Cambia quanto lontano volete spingervi — e ogni livello contiene per intero quello sotto.';
 
 /**
  * Le foto di copertina delle tre schede in griglia.
  *
- * In questa bozza sono i segnaposto generati: le foto vere degli interventi
+ * In questa anteprima sono i segnaposto generati: le foto vere degli interventi
  * non ce le hanno ancora date. Quando arrivano, qui si mettono gli slug di
  * quelle giuste e il resto non si tocca.
  */

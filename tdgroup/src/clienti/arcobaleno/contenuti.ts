@@ -138,13 +138,13 @@ export const INTESTAZIONI = {
   },
   portfolio: {
     /*
-      Non "foto nostre": in questa bozza le immagini sono generate, e dirlo
+      Non "foto nostre": in questa anteprima le immagini sono generate, e dirlo
       qui evita che il blocco smentisca l'avviso in cima alla pagina. Il testo
       fa anche da promemoria per loro su quali foto servono davvero.
     */
     titolo: 'I lavori.',
     testo:
-      'Qui vanno le fotografie dei vostri interventi: il rilievo in campo, la livellatrice al lavoro, la trincea con il dreno posato prima della richiusura. In questa bozza al loro posto ci sono immagini generate.',
+      'Qui vanno le fotografie dei vostri interventi: il rilievo in campo, la livellatrice al lavoro, la trincea con il dreno posato prima della richiusura. In questa anteprima al loro posto ci sono immagini generate.',
   },
   zone: {
     /*

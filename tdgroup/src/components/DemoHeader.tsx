@@ -21,7 +21,7 @@ export default function DemoHeader() {
 
   /*
     Il numero nel banner è sempre quello del fornitore, anche dentro le demo.
-    Questa barra non fa parte del sito di TD Group: ha il badge "bozze" e le
+    Questa barra non fa parte del sito di TD Group: ha il badge "anteprima" e le
     voci per saltare da un livello all'altro, roba che nel sito vero non
     esisterebbe. È l'involucro della presentazione, quindi parla il fornitore.
     Il recapito di TD Group resta dentro le pagine demo — hero, chiusura,
@@ -62,7 +62,7 @@ export default function DemoHeader() {
           >
             {AZIENDA.nome}
             <span className="rounded-full border border-bone/25 px-2 py-0.5 text-[10px] font-normal uppercase tracking-wider text-bone/60">
-              bozze
+              anteprima
             </span>
             {/*
               Chi le ha fatte, accanto a per chi sono fatte. Sotto sm sparisce:

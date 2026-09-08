@@ -4,7 +4,7 @@
  * FONTE DEI DATI — nessuno di questi ci è stato dato dall'azienda: vengono
  * tutti da elenchi pubblici (PagineGialle, PagineBianche, ReteImprese,
  * Kompass, Europages). Gli elenchi invecchiano e si copiano fra loro, quindi
- * valgono come punto di partenza per la bozza, non come dati pubblicabili.
+ * valgono come punto di partenza per l’anteprima, non come dati pubblicabili.
  * Le voci marcate qui sotto vanno confermate ad Arcobaleno prima di andare
  * online. Vedi INTAKE.md §5.
  *
@@ -77,7 +77,7 @@ export const AZIENDA = {
   descrizione: 'Drenaggio, livellamento laser e irrigazione per l’agricoltura',
 
   /*
-    Arcobaleno un sito non ce l'ha: i contenuti delle bozze vengono dai
+    Arcobaleno un sito non ce l'ha: i contenuti delle anteprime vengono dai
     materiali che ci hanno dato loro. `null` perché il footer cambi frase
     invece di citare un indirizzo che non esiste.
   */

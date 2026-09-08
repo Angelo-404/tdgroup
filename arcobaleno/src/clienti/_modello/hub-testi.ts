@@ -3,7 +3,7 @@ import type { SezioneHub, VisualeBozza } from '@/data/hub';
 /**
  * MODELLO — copiare la cartella, non modificarla.
  *
- * I testi dell'hub: la pagina con cui vendo le tre bozze. Qui parlo io, e
+ * I testi dell'hub: la pagina con cui vendo le tre anteprime. Qui parlo io, e
  * parlo a chi devo acquisire, quindi gli argomenti dipendono da chi ho
  * davanti. Quelli che seguono sono di TD Group e servono da esempio: vanno
  * riscritti sul cliente nuovo, non riadattati parola per parola.
@@ -39,7 +39,7 @@ export const MESTIERE_HERO = "per l'edilizia.";
 export const PRESENTAZIONE =
   'Ho dieci anni di produzione e controllo qualità industriale alle spalle. Li uso, insieme all’intelligenza artificiale, per costruire strumenti digitali che reggono il cantiere vero.';
 
-/** L'introduzione della griglia con le tre bozze. */
+/** L'introduzione della griglia con le tre anteprime. */
 export const INTRO_BOZZE =
   'Stessi contenuti, stesse foto dei vostri cantieri. Cambia quanto lontano volete spingervi — e ogni livello contiene per intero quello sotto.';
 

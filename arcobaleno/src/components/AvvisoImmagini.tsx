@@ -2,9 +2,9 @@ import { AlertTriangle } from 'lucide-react';
 import { AZIENDA, FOTO, IMMAGINI_GENERATE } from '@/data/cliente';
 
 /**
- * Dichiara in pagina che le immagini della bozza sono generate.
+ * Dichiara in pagina che le immagini dell’anteprima sono generate.
  *
- * Perché esiste: una bozza si mostra prima di avere le foto del cliente, ma
+ * Perché esiste: un’anteprima si mostra prima di avere le foto del cliente, ma
  * il footer dell'hub promette pagine "costruite sui contenuti e sulle foto"
  * loro, "non su un template". Un'immagine inventata e non dichiarata smentisce
  * quella frase proprio davanti a chi deve comprare — e se qualcuno gira uno
@@ -33,8 +33,8 @@ export default function AvvisoImmagini() {
         <span>
           <strong className="font-medium text-ink">
             {tutte
-              ? 'Le immagini di questa bozza sono generate.'
-              : `${IMMAGINI_GENERATE} immagini di questa bozza su ${FOTO.length} sono generate.`}
+              ? 'Le immagini di questa anteprima sono generate.'
+              : `${IMMAGINI_GENERATE} immagini di questa anteprima su ${FOTO.length} sono generate.`}
           </strong>{' '}
           Servono a far vedere come si comporta la pagina, non a mostrare
           lavori di {AZIENDA.nome}. Alla consegna vengono sostituite dalle

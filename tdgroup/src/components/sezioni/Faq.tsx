@@ -9,7 +9,7 @@ import { AZIENDA, FAQ } from '@/data/cliente';
 /**
  * Domande frequenti.
  *
- * Le risposte marcate `daConfermare` sono bozze scritte da noi: plausibili ma
+ * Le risposte marcate `daConfermare` sono anteprime scritte da noi: plausibili ma
  * non verificate. Il segno giallo le rende evidenti in riunione, così si vede
  * subito cosa TD Group deve confermare prima della pubblicazione.
  */
@@ -66,7 +66,7 @@ export default function Faq() {
                       </p>
                       {f.daConfermare && (
                         <p className="mb-5 inline-block rounded-full bg-cantiere/20 px-3 py-1 text-xs text-ink/70">
-                          Bozza — da confermare con {AZIENDA.nome}
+                          Da confermare con {AZIENDA.nome}
                         </p>
                       )}
                     </div>
@@ -78,7 +78,7 @@ export default function Faq() {
 
           {daConfermare > 0 && (
             <p className="mt-6 text-sm text-ink/45">
-              {daConfermare} risposte su {FAQ.length} sono nostre bozze: dicono
+              {daConfermare} risposte su {FAQ.length} sono nostre proposte: dicono
               cose plausibili, ma vanno confermate o corrette prima di andare
               online.
             </p>

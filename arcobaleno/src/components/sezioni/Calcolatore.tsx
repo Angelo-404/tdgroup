@@ -395,7 +395,7 @@ export default function Calcolatore() {
                     viene. Sparisce quando i prezzi diventano quelli veri.
                   */}
                   <p className="mt-3 rounded-lg bg-cantiere/15 px-3 py-2 text-sm leading-relaxed text-ink/70">
-                    In questa bozza le fasce sono di mercato. Online il
+                    In questa anteprima le fasce sono di mercato. Online il
                     calcolatore parte dal listino di {AZIENDA.nome}, quindi la
                     cifra che compare qui sarà la loro, non una media.
                   </p>

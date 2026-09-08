@@ -167,7 +167,7 @@ export const CONFRONTO_TESTI: Record<string, { voce: string; nota: string }> = {
   },
   calcolatore: {
     voce: 'Calcolatore di spesa sui vostri prezzi',
-    nota: 'Cinque domande, una forbice di spesa a schermo e il messaggio WhatsApp già scritto. Nella bozza gira su fasce medie di mercato; online parte dal vostro listino, così la trattativa comincia da un numero deciso da voi.',
+    nota: 'Cinque domande, una forbice di spesa a schermo e il messaggio WhatsApp già scritto. Nell’anteprima gira su fasce medie di mercato; online parte dal vostro listino, così la trattativa comincia da un numero deciso da voi.',
   },
   'area-cliente': {
     voce: 'Area cliente con stato lavori',

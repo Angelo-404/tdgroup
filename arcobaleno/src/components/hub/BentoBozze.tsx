@@ -10,7 +10,7 @@ import { LIVELLI } from '@/data/livelli';
 import { fadeUp } from '@/lib/motion';
 
 /**
- * Le tre bozze in griglia asimmetrica, dal livello più alto al più basso:
+ * Le tre anteprime in griglia asimmetrica, dal livello più alto al più basso:
  * il primo box che si vede è quello che vale di più.
  */
 /*

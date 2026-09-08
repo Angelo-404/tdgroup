@@ -23,7 +23,7 @@ export const MESTIERE_HERO = "per l'edilizia.";
 export const PRESENTAZIONE =
   'Ho dieci anni di produzione e controllo qualità industriale alle spalle. Li uso, insieme all’intelligenza artificiale, per costruire strumenti digitali che reggono il cantiere vero.';
 
-/** L'introduzione della griglia con le tre bozze. */
+/** L'introduzione della griglia con le tre anteprime. */
 export const INTRO_BOZZE =
   'Stessi contenuti, stesse foto dei vostri cantieri. Cambia quanto lontano volete spingervi — e ogni livello contiene per intero quello sotto.';
 

@@ -45,7 +45,7 @@ const CANDIDATE = FOTO.filter((f) => !INIZIALI.some((r) => r.fotoSlug === f.slug
  *   Portale  — caricano anche foto di cantieri appena finiti, dal telefono.
  *
  * Sono due righe distinte della tabella di confronto: la demo deve mostrare
- * la differenza, o la tabella promette una cosa e la bozza un'altra.
+ * la differenza, o la tabella promette una cosa e l’anteprima un'altra.
  */
 export default function AdminSimulato({
   caricamento = false,
@@ -178,7 +178,7 @@ export default function AdminSimulato({
               </div>
 
               {/*
-                Il caricamento è l'unica cosa che una bozza statica non può
+                Il caricamento è l'unica cosa che un’anteprima statica non può
                 simulare davvero: non c'è dove mettere il file. Meglio dirlo
                 al click che lasciare un pulsante che non risponde.
               */}
@@ -197,7 +197,7 @@ export default function AdminSimulato({
                       foto viene ridotta e convertita da sola, così pesa poco
                       anche se arriva a piena risoluzione, e vi viene chiesta una
                       riga di descrizione: è quella che Google legge e che oggi,
-                      sul vostro sito, manca in 340 foto su 583. In questa bozza
+                      sul vostro sito, manca in 340 foto su 583. In questa anteprima
                       non c&apos;è niente da caricare — le foto dell&apos;archivio
                       si scelgono qui accanto.
                     </p>

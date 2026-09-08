@@ -9,10 +9,10 @@ import Stato from '@/components/hub/Stato';
 import { FORNITORE } from '@/data/fornitore';
 
 /**
- * L'hub: la pagina che vende le tre bozze a TD Group.
+ * L'hub: la pagina che vende le tre anteprime a TD Group.
  *
  * Ordine ragionato, non casuale. Prima chi sono e cosa propongo (Hero), poi le
- * tre bozze da aprire (Bento), poi perché conviene farlo (Perché), poi cosa
+ * tre anteprime da aprire (Bento), poi perché conviene farlo (Perché), poi cosa
  * contiene ognuna e quanto costa (Confronto), poi cosa si aggiunge fuori
  * cambia se lo fanno (Perché) e cosa succede se non lo fanno (Stato),
  * poi cosa contiene ognuna e quanto costa (Confronto), poi cosa si aggiunge
@@ -38,7 +38,7 @@ export default function Hub() {
       <WhatsAppFlottante
         contatto={FORNITORE}
         etichetta="Scrivimi su WhatsApp"
-        messaggio="Salve, ho visto le bozze del sito e vorrei parlarne."
+        messaggio="Salve, ho visto le anteprime del sito e vorrei parlarne."
       />
     </main>
   );

@@ -20,11 +20,11 @@ const grotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: {
-    default: `${AZIENDA.nome} — bozze del nuovo sito`,
+    default: `${AZIENDA.nome} — anteprime del nuovo sito`,
     template: `%s — ${AZIENDA.nome}`,
   },
   description: `Tre proposte per il nuovo sito di ${AZIENDA.nome}, ${AZIENDA.descrizione.toLowerCase()} a ${AZIENDA.comune} (${AZIENDA.provincia}).`,
-  // Fase 1: le bozze non devono finire su Google.
+  // Fase 1: le anteprime non devono finire su Google.
   robots: { index: false, follow: false },
 };
 

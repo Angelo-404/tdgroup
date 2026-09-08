@@ -30,7 +30,7 @@ export function generateMetadata({
   const livello = livelloBySlug(params.livello);
   if (!livello) return {};
   return {
-    title: `${livello.nome} — bozza ${livello.numero}`,
+    title: `${livello.nome} — anteprima ${livello.numero}`,
     description: livello.perChi,
   };
 }

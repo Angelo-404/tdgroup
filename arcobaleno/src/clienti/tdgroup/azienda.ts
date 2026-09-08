@@ -62,7 +62,7 @@ export const AZIENDA = {
   descrizione: 'Impresa edile e General Contractor',
 
   /*
-    Il sito da cui provengono i contenuti delle bozze. Il footer lo cita per
+    Il sito da cui provengono i contenuti delle anteprime. Il footer lo cita per
     dire da dove arriva il materiale: va letto da qui e non scritto a mano nei
     componenti, altrimenti finisce sul sito di un altro cliente.
   */

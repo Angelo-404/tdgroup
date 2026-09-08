@@ -24,12 +24,12 @@
 /**
  * Tempi di consegna, in giorni di calendario e già larghi.
  *
- * Quattro ore al giorno, cinque giorni a settimana, partendo dalle bozze già
+ * Quattro ore al giorno, cinque giorni a settimana, partendo dalle anteprime già
  * fatte — che è il punto: il grosso del lavoro visibile è finito.
  *
  * Vetrina: mancano schema LocalBusiness, sitemap, robots, le pagine privacy e
- * cookie, l'uscita dalla modalità bozza (oggi vive sotto /demo con l'header
- * delle bozze) e la messa online. Sei-otto mezze giornate. I redirect dai
+ * cookie, l'uscita dalla modalità anteprima (oggi vive sotto /demo con l'header
+ * delle anteprime) e la messa online. Sei-otto mezze giornate. I redirect dai
  * vecchi slug sono già in next.config.mjs. Niente banner cookie: i font sono
  * self-hosted e non c'è nulla di terze parti — se arriva Analytics, torna.
  *
@@ -66,19 +66,19 @@ export const PASSI = [
     n: '01',
     titolo: 'Scegliete il livello',
     testo:
-      'Aprite le tre bozze con calma, anche dal telefono, e ditemi dove volete fermarvi. Si può salire dopo: i livelli si sommano, non si rifà niente da capo.',
+      'Aprite le tre anteprime con calma, anche dal telefono, e ditemi dove volete fermarvi. Si può salire dopo: i livelli si sommano, non si rifà niente da capo.',
   },
   {
     n: '02',
     titolo: 'Mi mandate quello che manca',
     testo:
-      'Partita IVA, numero REA, sede legale, orari di apertura e l’elenco dei comuni dove lavorate davvero: sono i segnaposto gialli in fondo alle bozze, e senza quelli il sito non può andare online, è la legge. Serve anche sapere da quando siete attivi: oggi il vostro sito dice “oltre vent’anni” in una pagina e “nasce nel 2016” in un’altra, e una delle due va corretta.',
+      'Partita IVA, numero REA, sede legale, orari di apertura e l’elenco dei comuni dove lavorate davvero: sono i segnaposto gialli in fondo alle anteprime, e senza quelli il sito non può andare online, è la legge. Serve anche sapere da quando siete attivi: oggi il vostro sito dice “oltre vent’anni” in una pagina e “nasce nel 2016” in un’altra, e una delle due va corretta.',
   },
   {
     n: '03',
     titolo: 'Monto il sito vero',
     testo:
-      'Stessi contenuti, foto definitive, i vostri dati al posto dei segnaposto. Le bozze restano online finché non le sostituisce il sito completo, così potete confrontare.',
+      'Stessi contenuti, foto definitive, i vostri dati al posto dei segnaposto. Le anteprime restano online finché non le sostituisce il sito completo, così potete confrontare.',
   },
   {
     n: '04',

@@ -66,7 +66,7 @@ export default function HubHero() {
 
         <Reveal delay={0.7} className="mt-16 flex items-center gap-3 text-sm text-bone/40">
           <ArrowDown size={16} />
-          Scorri per vedere le bozze
+          Scorri per vedere le anteprime
         </Reveal>
       </motion.div>
     </section>

@@ -10,7 +10,7 @@ import { PASSI, tempiIncompleti } from '@/data/offerta';
  * Il footer di `src/components/Footer.tsx` porta i dati societari di TD Group
  * ed è giusto dentro le demo, che sono il loro sito. Sull'hub sarebbe il
  * recapito sbagliato: chi legge è TD Group, e deve poter richiamare chi gli ha
- * mandato le bozze.
+ * mandato le anteprime.
  *
  * Volutamente più corto dell'altro: questa è una pagina di presentazione, non
  * un sito aziendale con sede legale e REA da pubblicare.
@@ -27,7 +27,7 @@ export default function FooterHub() {
       <div className="mx-auto max-w-7xl">
         <p className="titolo text-4xl sm:text-5xl">{FORNITORE.nome}</p>
         <p className="mt-3 max-w-prosa text-bone/60">
-          {FORNITORE.mestiere}. Queste tre bozze sono costruite sui contenuti e
+          {FORNITORE.mestiere}. Queste tre anteprime sono costruite sui contenuti e
           sulle foto di {AZIENDA.nome}, non su un template.
         </p>
 
@@ -78,7 +78,7 @@ export default function FooterHub() {
         <div className="mt-9 flex flex-wrap gap-3">
           <a
             href={whatsapp(
-              'Salve, ho visto le bozze del sito e vorrei parlarne.',
+              'Salve, ho visto le anteprime del sito e vorrei parlarne.',
               FORNITORE.whatsapp,
             )}
             target="_blank"
@@ -119,7 +119,7 @@ export default function FooterHub() {
           </div>
 
           <div className="space-y-1.5">
-            <p className="font-medium text-bone">Le bozze</p>
+            <p className="font-medium text-bone">Le anteprime</p>
             <p>Riservate a {AZIENDA.nome}: non compaiono su Google.</p>
             <p>Foto e testi di proprietà di {AZIENDA.nome}.</p>
           </div>
